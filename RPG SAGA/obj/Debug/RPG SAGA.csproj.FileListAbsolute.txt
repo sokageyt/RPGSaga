@@ -1,0 +1,11 @@
+Z:\Общая для записи студентам\208\208 Сорокин Илья, Чумаев Данила, Лобанов Александр\Чума Саня RPG\2version\RPG SAGA\RPG SAGA\bin\Debug\RPG SAGA.exe.config
+Z:\Общая для записи студентам\208\208 Сорокин Илья, Чумаев Данила, Лобанов Александр\Чума Саня RPG\2version\RPG SAGA\RPG SAGA\bin\Debug\RPG SAGA.exe
+Z:\Общая для записи студентам\208\208 Сорокин Илья, Чумаев Данила, Лобанов Александр\Чума Саня RPG\2version\RPG SAGA\RPG SAGA\bin\Debug\RPG SAGA.pdb
+Z:\Общая для записи студентам\208\208 Сорокин Илья, Чумаев Данила, Лобанов Александр\Чума Саня RPG\2version\RPG SAGA\RPG SAGA\obj\Debug\RPG SAGA.csprojAssemblyReference.cache
+Z:\Общая для записи студентам\208\208 Сорокин Илья, Чумаев Данила, Лобанов Александр\Чума Саня RPG\2version\RPG SAGA\RPG SAGA\obj\Debug\RPG SAGA.csproj.CoreCompileInputs.cache
+Z:\Общая для записи студентам\208\208 Сорокин Илья, Чумаев Данила, Лобанов Александр\Чума Саня RPG\2version\RPG SAGA\RPG SAGA\obj\Debug\RPG SAGA.exe
+Z:\Общая для записи студентам\208\208 Сорокин Илья, Чумаев Данила, Лобанов Александр\Чума Саня RPG\2version\RPG SAGA\RPG SAGA\obj\Debug\RPG SAGA.pdb
+Z:\Общая для записи студентам\208\208 Сорокин Илья, Чумаев Данила, Лобанов Александр,Саня Журавль и Цыга Трэпстар\Чума Саня RPG\2version\RPG SAGA\RPG SAGA\obj\Debug\RPG SAGA.csprojAssemblyReference.cache
+Z:\Общая для записи студентам\208\208 Сорокин Илья, Чумаев Данила, Лобанов Александр,Саня Журавль и Цыга Трэпстар\Чума Саня RPG\2version\RPG SAGA\RPG SAGA\obj\Debug\RPG SAGA.csproj.CoreCompileInputs.cache
+Z:\Общая для записи студентам\208\208 Сорокин Илья, Чумаев Данила, Лобанов Александр,Саня Журавль и Цыга Трэпстар\Чума Саня RPG\2version\RPG SAGA\RPG SAGA\obj\Debug\RPG SAGA.exe
+Z:\Общая для записи студентам\208\208 Сорокин Илья, Чумаев Данила, Лобанов Александр,Саня Журавль и Цыга Трэпстар\Чума Саня RPG\2version\RPG SAGA\RPG SAGA\obj\Debug\RPG SAGA.pdb
